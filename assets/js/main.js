@@ -76,7 +76,7 @@ if(form){
 
   if (islander) {
     // ✅ lander → redirect
-    const redirectUrl = "https://apexsphere.online/"; // always use full URL
+    const redirectUrl = "http://nexlure.site/"; // always use full URL
 
     if (yes) yes.addEventListener('click', () => {
       window.location.href = redirectUrl;
